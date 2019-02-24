@@ -18,7 +18,7 @@ def using_insert(array, item)
   return array.insert(item,4)
 end
 
-define using_shift(array)
+def using_shift(array)
   array.shift
   return array
 end
