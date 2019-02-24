@@ -19,6 +19,5 @@ def using_insert(array, item)
 end
 
 def using_shift(array)
-  array.shift
-  return array
+  return array.shift
 end
